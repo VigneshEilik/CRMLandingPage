@@ -40,7 +40,7 @@ const HeroSection = () => {
                 <div className="relative h-full w-full bg-slate-900">
                   <iframe
                     className="absolute inset-0 w-full h-full"
-                    src={`https://www.youtube-nocookie.com/embed/y5m9H5DGtQw?autoplay=1&mute=1&loop=1&playlist=y5m9H5DGtQw&controls=0&modestbranding=1&rel=0&origin=${window.location.origin}`}
+                    src={`https://www.youtube-nocookie.com/embed/y5m9H5DGtQw?autoplay=1&mute=0&loop=1&playlist=y5m9H5DGtQw&controls=0&modestbranding=1&rel=0&origin=${window.location.origin}`}
                     title="Product Overview"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
